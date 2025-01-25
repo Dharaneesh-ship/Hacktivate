@@ -1,9 +1,8 @@
-# ONE-SEVEN
+# Hacktivate
 # Hackathon Project: Tech-Driven Solutions to Address the Dual Threat of Paper Cups  
 
 ## Objective  
-This project aims to address the environmental and health concerns associated with paper cups through **data-driven visualizations**. The visualizations highlight the impact of paper cups on CO₂ emissions, water usage, and waste management, aiming to create awareness and actionable insights.
-
+This project explores the environmental and health repercussions of paper cups through insightful visualizations. It aims to provide actionable data on CO₂ emissions, water consumption, and waste trends, inspiring sustainable change.
 ---
 
 ## Data Analysis Summary  
@@ -89,12 +88,6 @@ To provide a snapshot of waste management for each year in a simple and intuitiv
 - Users are shown how their choices can impact CO₂ emissions and waste through interactive metrics and charts.  
 
 ---
-
-## Visualization Snapshots  
-
-![image](https://github.com/user-attachments/assets/0ea84393-084d-4e90-b43c-ca4b17e3e062)
-![image](https://github.com/user-attachments/assets/f0308da6-ba00-4242-8c5b-007993a691dc)
-
 
 ---
 ## Installation and Usage  
